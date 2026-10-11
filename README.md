@@ -1,3 +1,4 @@
+```python
 class DataAnalyst:
     def __init__(self):
         self.name = "Bharti Saini"
@@ -7,9 +8,10 @@ class DataAnalyst:
         self.tools = ["SQL", "Power BI", "Advanced Excel"]
         self.learning = ["Python (Pandas)", "Data Storytelling"]
         self.projects = [
-            "Sales Analysis Dashboard: Power BI + SQL (insights on revenue, top products, trends)"
+            "Mobile Sales Dashboard: Power BI (sales by brand, model, city, payment method, ratings)"
         ]
         self.superpower = "Combining business sense with data skills"
 
     def mission(self):
         return "Help teams make faster, smarter decisions with data 📈"
+```
