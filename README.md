@@ -1,17 +1,13 @@
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Bharti Saini"
-        self.location = "Gurgaon, India"
-        self.background = "Customer Support Team Leader | 7+ years in corporate"
-        self.now = "Data Analytics (course + hands-on projects)"
-        self.tools = ["SQL", "Power BI", "Advanced Excel"]
-        self.learning = ["Python (Pandas)", "Data Storytelling"]
-        self.projects = [
-            "Mobile Sales Dashboard: Power BI (sales by brand, model, city, payment method, ratings)"
-        ]
-        self.superpower = "Combining business sense with data skills"
+### 👋 Hi, I'm Bharti Saini
+📍 Gurgaon, India
 
-    def mission(self):
-        return "Help teams make faster, smarter decisions with data 📈"
-```
+**Background:** Customer Support Team Leader | 7+ years in corporate
+**Now:** Data Analytics (course + hands-on projects)
+
+**Tools:** SQL • Power BI • Advanced Excel
+**Learning:** Python (Pandas) • Data Storytelling
+
+**Project:** [Mobile Sales Dashboard (Power BI)](paste-your-repo-link-here)
+
+**Superpower:** Combining business sense with data skills
+**Mission:** Help teams make faster, smarter decisions with data 📈
